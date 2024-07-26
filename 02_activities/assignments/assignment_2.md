@@ -10,24 +10,52 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
 
+      Good and Bad Data Visualization:
+      
+      Good Visualization
+      
+      Visualization: Global CO₂ Emissions by Country (Our World in Data)
+      
+      Link: https://ourworldindata.org/co2-emissions
+      
+      Explanation:
+      
+      1. Clarity: The visualization uses a color gradient to represent CO₂ emission levels, making it easy for users to distinguish between high and low emissions (Our World in Data). This aligns with the principle of clarity, as users can quickly understand the data.
 
+      2. Interactivity: It features interactive elements that allow users to explore the data over time and by different metrics. This enhances engagement and helps users delve deeper into the data (Our World in Data).
 
+      3. Accuracy: A clear legend explains the color scale, ensuring users interpret the data correctly. This supports accurate data representation and understanding (Our World in Data). 
 
+      Bad Visualization
+      
+      Visualization: Examples of Pie Charts (Data Viz Project)
+      
+      Link: https://datavizproject.com/data-type/pie-chart/
+      
+      Explanation:
+      
+      1. Distortion: The 3D pie charts introduce distortion, making it difficult to accurately compare segment sizes. This can lead to misinterpretation of data proportions, as noted by the Data Viz Project (Data Viz Project).
 
+      2. Visual Clutter: Bright, contrasting colors create visual clutter, making it challenging to differentiate between segments. This reduces clarity and can overwhelm viewers (Data Viz Project).
 
+      3. Lack of Labels: The charts lack clear labels and a legend, which impairs users' ability to understand what each segment represents, affecting the overall accuracy of the data representation (Data Viz Project).
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
 
+      Improvement for good visualization:
+      
+      1. Filtering Options: Adding a feature to filter by specific regions or countries would allow users to focus on particular areas of interest, enhancing the visualization's usefulness (Our World in Data).
 
+      2. Historical Trends: Integrating a time series animation to show historical trends in emissions would provide a dynamic view of how CO₂ emissions have changed over the years, adding depth to the analysis (Our World in Data).
 
+      Improvement for bad visualization:
+      
+      1. 2D Pie or Bar Charts: Switching to a 2D pie chart or a bar chart would eliminate the distortion and provide a clearer comparison of data segments, improving clarity (Data Viz Project).
 
-
-
+      2. Color Palette and Labels: Using a more subdued color palette and adding clear labels and a legend would reduce visual clutter and enhance readability, making the visualization more effective (Data Viz Project).
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
